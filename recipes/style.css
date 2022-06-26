@@ -2,7 +2,9 @@
     color: darkred;
     font-size: 32px;
     font-weight: bolder;
+    text-align: center;
 }
+
 * {
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -10,4 +12,8 @@
 .immagine {
     height: 500;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
